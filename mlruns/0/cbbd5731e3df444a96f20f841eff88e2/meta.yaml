@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/projects/mlprojecttwo/mlruns/0/cbbd5731e3df444a96f20f841eff88e2/artifacts
+end_time: 1736412899374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbbd5731e3df444a96f20f841eff88e2
+run_name: beautiful-roo-237
+run_uuid: cbbd5731e3df444a96f20f841eff88e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736412891391
+status: 3
+tags: []
+user_id: purvesh.sohony

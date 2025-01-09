@@ -3,3 +3,6 @@ pandas
 scikit-learn
 python-dotenv
 seaborn
+mlflow
+catboost
+xgboost
