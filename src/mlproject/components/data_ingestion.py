@@ -5,7 +5,8 @@ from src.mlproject.logger import logging
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv("c:\projects\datasets\StudentsPerformance.csv")
+df = pd.read_csv(os.path.join('notebook/data','raw.csv'))
+
 
 from dataclasses import dataclass
 
